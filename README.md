@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning HTML and Python coding 
 - 💞️ I’m looking to collaborate on programming projects with my friends
 - 📫 How to reach me: DON'T!
-- 😄 Pronouns: heli/copter
-- ⚡ Fun fact: I own a subreddit (it has 6 members 😭)
+- 😄 Pronouns: he/he -micheal jakson-
+- ⚡ Fun fact: I ... umm ... nevermind
 
 <!---
 StiLR123/StiLR123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
