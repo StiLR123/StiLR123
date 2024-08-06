@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @StiLR123
 - 👀 I’m interested in computer-building, politics, biology and IT
-- 🌱 I’m currently learning HTML and Python coding 
+- 🌱 I’m currently learning HTML and Python coding and cyber security
 - 💞️ I’m looking to collaborate on programming projects with my friends
 - 📫 How to reach me: DON'T!
-- 😄 Pronouns: he/he -micheal jakson-
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I ... umm ... nevermind
 
 <!---
