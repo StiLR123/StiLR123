@@ -2,6 +2,7 @@
 <h2> Hi, I'm Stiaan, I am a 15 year old, chronically online high school student </h2>
 
 <h3>About Me</h3>
+My main interests (obsessions) includes: Music, Cybersecurity and operating systems and political sciences
 <p> I listen to anything but mostly punk, rock, electronic, old-school hip-hop and experimental styles </p>
 <p> I play drums </p>
 <p> I enjoy working with Linux. I mainly use Arch but sometimes I dabble in Kali Linux </p>
